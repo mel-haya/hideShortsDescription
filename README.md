@@ -29,7 +29,7 @@ To install this extension manually using Chrome's Developer Mode:
    - Click "Select Folder" or "Open"
 
 5. **Verify Installation**
-   - The extension should appear in your extensions list as "YouTube Shorts Control"
+   - The extension should appear in your extensions list as "ShortsTools"
    - Pin it to your toolbar by clicking the puzzle piece icon in Chrome and clicking the pin next to the extension name
 
 ## Usage
